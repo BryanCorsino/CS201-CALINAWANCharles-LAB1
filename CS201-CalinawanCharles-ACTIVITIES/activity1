@@ -1,0 +1,10 @@
+let FirstFavNum = 23;
+let SecondFavNum = 5;
+
+console.log (FirstFavNum + SecondFavNum);
+console.log (FirstFavNum - SecondFavNum);
+console.log (FirstFavNum * SecondFavNum);
+console.log (FirstFavNum / SecondFavNum);
+console.log (FirstFavNum % SecondFavNum);
+let Power = Math.pow(FirstFavNum);
+console.log(Power);
