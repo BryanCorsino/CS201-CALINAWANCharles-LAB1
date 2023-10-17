@@ -1,0 +1,37 @@
+let FirstFavNum = 21;
+
+let SecondFAVNUM = 21;
+
+
+  if(FirstFavNum > SecondFAVNUM)
+    {
+console.log("firstFavNumb is greater than secondFavNumb") 
+  }
+  else if(FirstFavNum < SecondFAVNUM)
+  {
+console.log("firstFavNumb is less than secondFavNumb")
+  }
+  else if( FirstFavNum >= SecondFAVNUM)
+  {
+console.log("firstFavNumb is greater than & equal to secondFavNumb")
+  }
+  else if(FirstFavNum <= SecondFAVNUM)
+  {
+console.log("firstFavNumb is less than & equal to secondFavNumb")
+  }
+  else if(FirstFavNum === SecondFAVNUM)
+  {
+console.log("firstFavNumb is equal to secondFavNumb")
+  }
+  else if(FirstFavNum == SecondFAVNUM)
+  {
+console.log("firstFavNumb is equal to secondFavNumb") 
+  }
+  else if(FirstFavNum !== SecondFAVNUM)
+  {
+console.log("firstFavNumb is not equal to secondFavNumb")
+  }
+  else if(FirstFavNum != SecondFAVNUM)
+  {
+console.log("firstFavNumb is not equal to secondFavNumb") 
+  }
